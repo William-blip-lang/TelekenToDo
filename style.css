@@ -1,7 +1,7 @@
 /* Reset e Variáveis */
 :root {
-    --primary: #3b82f6;
-    --primary-dark: #2563eb;
+    --primary: #153b94;
+    --primary-dark: #081636;
     --primary-light: #60a5fa;
     --secondary: #10b981;
     --secondary-dark: #059669;
@@ -840,3 +840,4 @@ body {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--border-light);
 }
+
